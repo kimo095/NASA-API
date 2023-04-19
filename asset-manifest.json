@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NASA-API/static/css/main.ef016897.css",
+    "main.js": "/NASA-API/static/js/main.e2f9dcb5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NASA-API/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/NASA-API/index.html",
+    "main.ef016897.css.map": "/NASA-API/static/css/main.ef016897.css.map",
+    "main.e2f9dcb5.js.map": "/NASA-API/static/js/main.e2f9dcb5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NASA-API/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef016897.css",
+    "static/js/main.e2f9dcb5.js"
+  ]
+}
